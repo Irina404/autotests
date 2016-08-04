@@ -6,6 +6,8 @@ package com.Irina404.utils.convertors.com.Irina404.utils.convertors;
 public class Convectorrunner {
     public static void main (String args []){
         PrimitiveConvertor.floatToChar();
+        PrimitiveConvertor.intToChar();
+        PrimitiveConvertor.charToInt();
 
     }
 }
